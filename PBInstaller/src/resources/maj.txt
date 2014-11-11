@@ -1,0 +1,19 @@
+** Version 0.1.1 : 14/03/13
+
+Evolutions : 
+	Setup Manager :
+ 	 - Création de l'interface graphique de l'installer
+	 - Affichage des Nouveautés
+	 - Possibilité de choisir le chemin d'installation
+	 - Affichage de l'installation en cours
+	 - Ajout des skins et Overviews pour les différentes races (temporaires)
+	Game :
+	 - Création d'un menu principal
+	 	* Chargement de parties sauvegardées
+	 	* Apercu de la dernière partie sauvegardée
+	 	* Création d'un personnage
+	- Menu in game (touche ESC) :
+		* Possibilité de sauvegarder la partie
+		* Possibilité de charger la partie
+		* Retour au menu principal
+		* Quitter le jeu

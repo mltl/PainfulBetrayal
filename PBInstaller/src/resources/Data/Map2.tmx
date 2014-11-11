@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="7d4722cc34431e8146eb1141f10d" tilewidth="32" tileheight="32">
+  <image source="../../Graphic_Engine/src/resources/Textures/Background/Grounds/7d4722cc34431e8146eb1141f10d.png" width="256" height="704"/>
+  <tile id="10">
+   <properties>
+    <property name="tp" value="true"/>
+   </properties>
+  </tile>
+  <tile id="36">
+   <properties>
+    <property name="block" value="true"/>
+   </properties>
+  </tile>
+  <tile id="82">
+   <properties>
+    <property name="block" value="true"/>
+   </properties>
+  </tile>
+  <tile id="83">
+   <properties>
+    <property name="block" value="true"/>
+   </properties>
+  </tile>
+  <tile id="90">
+   <properties>
+    <property name="block" value="true"/>
+   </properties>
+  </tile>
+  <tile id="91">
+   <properties>
+    <property name="block" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="177" name="035-Ruins02" tilewidth="32" tileheight="32">
+  <image source="../../Graphic_Engine/src/resources/Textures/Background/Grounds/035-Ruins02.png" width="256" height="896"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC1NlYGBQJQJzAzEXAcxNB3XBQBxChLpoII4ZAPfhUkdMGIMwAEY29aqQAQAA
+  </data>
+ </layer>
+ <layer name="Calque 2" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWDCQAADA0iRpABAAA=
+  </data>
+ </layer>
+</map>
